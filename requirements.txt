@@ -1,4 +1,4 @@
-streamlit version==1.33.0
+streamlit==1.33.0
 sklearn version==1.2.2
 fuzzywuzzy version==0.18.0
 Distance==0.1.3
